@@ -18,9 +18,9 @@
     "dev-eu": "nodemon ./bin/index.js eu",
     "start": "NODE_ENV=production node ./bin/index.js",
     "start-eu": "NODE_ENV=production node ./bin/index.js eu"
-
   },
   "devDependencies": {
+    "@tsconfig/node16": "^1.0.3",
     "@types/cors": "^2.8.12",
     "@types/dotenv-safe": "^8.1.2",
     "@types/express": "^4.17.13",
