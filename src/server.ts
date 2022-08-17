@@ -1,5 +1,4 @@
 import express from 'express'
-import helmet from 'helmet'
 import cors from 'cors'
 
 import { environment } from './library/environment/environment'
@@ -12,7 +11,7 @@ const server = async (env: string, region: string): Promise<typeof app> => {
   console.log(`[flows-static] Starting server...`)
 
   const app = express()
-  app.use(helmet())
+  // app.use(helmet())
   app.use(express.json())
 
   if (PROD) {
