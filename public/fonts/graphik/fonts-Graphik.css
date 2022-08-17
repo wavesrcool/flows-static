@@ -1,0 +1,162 @@
+@font-face {
+    font-family: Graphik;
+    src: url('/fonts/Graphik/GraphikBlack.otf');
+    format: ('otf');
+    font-display: swap;
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: Graphik;
+    src: url('/fonts/Graphik/GraphikBlackItalic.otf');
+    format: ('otf');
+    font-display: swap;
+    font-weight: 800;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: Graphik;
+    src: url('/fonts/Graphik/GraphikBold.otf');
+    format: ('otf');
+    font-display: swap;
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: Graphik;
+    src: url('/fonts/Graphik/GraphikBoldItalic.otf');
+    format: ('otf');
+    font-display: swap;
+    font-weight: 700;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: Graphik;
+    src: url('/fonts/Graphik/GraphikExtralight.otf');
+    format: ('otf');
+    font-display: swap;
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: Graphik;
+    src: url('/fonts/Graphik/GraphikExtralightItalic.otf');
+    format: ('otf');
+    font-display: swap;
+    font-weight: 200;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: Graphik;
+    src: url('/fonts/Graphik/GraphikLight.otf');
+    format: ('otf');
+    font-display: swap;
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: Graphik;
+    src: url('/fonts/Graphik/GraphikLightItalic.otf');
+    format: ('otf');
+    font-display: swap;
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: Graphik;
+    src: url('/fonts/Graphik/GraphikMedium.otf');
+    format: ('otf');
+    font-display: swap;
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: Graphik;
+    src: url('/fonts/Graphik/GraphikMediumItalic.otf');
+    format: ('otf');
+    font-display: swap;
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: Graphik;
+    src: url('/fonts/Graphik/GraphikRegular.otf');
+    format: ('otf');
+    font-display: swap;
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: Graphik;
+    src: url('/fonts/Graphik/GraphikRegularItalic.otf');
+    format: ('otf');
+    font-display: swap;
+    font-weight: 400;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: Graphik;
+    src: url('/fonts/Graphik/GraphikSemibold.otf');
+    format: ('otf');
+    font-display: swap;
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: Graphik;
+    src: url('/fonts/Graphik/GraphikSemiboldItalic.otf');
+    format: ('otf');
+    font-display: swap;
+    font-weight: 600;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: Graphik;
+    src: url('/fonts/Graphik/GraphikSuper.otf');
+    format: ('otf');
+    font-display: swap;
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: Graphik;
+    src: url('/fonts/Graphik/GraphikSuperItalic.otf');
+    format: ('otf');
+    font-display: swap;
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: Graphik;
+    src: url('/fonts/Graphik/GraphikThin.otf');
+    format: ('otf');
+    font-display: swap;
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: Graphik;
+    src: url('/fonts/Graphik/GraphikThinItalic.otf');
+    format: ('otf');
+    font-display: swap;
+    font-weight: 100;
+    font-style: italic;
+}
+

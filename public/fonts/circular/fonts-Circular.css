@@ -1,0 +1,90 @@
+@font-face {
+    font-family: Circular;
+    src: url('/fonts/Circular/CircularStd-Black.otf');
+    format: ('otf');
+    font-display: swap;
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: Circular;
+    src: url('/fonts/Circular/CircularStd-BlackItalic.otf');
+    format: ('otf');
+    font-display: swap;
+    font-weight: 800;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: Circular;
+    src: url('/fonts/Circular/CircularStd-Bold.otf');
+    format: ('otf');
+    font-display: swap;
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: Circular;
+    src: url('/fonts/Circular/CircularStd-BoldItalic.otf');
+    format: ('otf');
+    font-display: swap;
+    font-weight: 700;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: Circular;
+    src: url('/fonts/Circular/CircularStd-Book.otf');
+    format: ('otf');
+    font-display: swap;
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: Circular;
+    src: url('/fonts/Circular/CircularStd-BookItalic.otf');
+    format: ('otf');
+    font-display: swap;
+    font-weight: 400;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: Circular;
+    src: url('/fonts/Circular/CircularStd-Light.otf');
+    format: ('otf');
+    font-display: swap;
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: Circular;
+    src: url('/fonts/Circular/CircularStd-LightItalic.otf');
+    format: ('otf');
+    font-display: swap;
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: Circular;
+    src: url('/fonts/Circular/CircularStd-Medium.otf');
+    format: ('otf');
+    font-display: swap;
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: Circular;
+    src: url('/fonts/Circular/CircularStd-MediumItalic.otf');
+    format: ('otf');
+    font-display: swap;
+    font-weight: 500;
+    font-style: italic;
+}
+
