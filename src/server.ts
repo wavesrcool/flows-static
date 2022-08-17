@@ -33,25 +33,30 @@ const server = async (env: string, region: string): Promise<typeof app> => {
     res.status(200).send()
   })
 
-  app.get('/images/rs/:rdir', async (req, res) => {
-    const { rdir } = req.params
+  app.get('/files/images/re-size/:relativedir/:filetype', async (req, res) => {
+    const { relativedir: rdir, filetype: ftyp } = req.params
 
     if (!rdir || typeof rdir !== 'string') {
       res.status(404).send({ message: 'missing relative directory parameter' })
     }
 
-    const resize = await FunctionsImagesReSize({ rdir })
+    if (!ftyp || typeof ftyp !== 'string') {
+      res.status(404).send({ message: 'missing file type parameter' })
+    }
+
+    const filePath = `images/${rdir}.${ftyp.toLowerCase()}`
+
+    const resize = await FunctionsImagesReSize({
+      filePath,
+      scalar: 0.2,
+    })
 
     if (!resize) {
-      res.status(404).send({ message: 'no file in public/' })
+      res.status(404).send({ message: `no file in public/${filePath}` })
     }
 
     //
     res.status(200).send()
-  })
-
-  app.get('/*', (_req, res) => {
-    res.status(200).send({ message: 'quick' })
   })
 
   app.listen(environment.PORT, (): void => {
