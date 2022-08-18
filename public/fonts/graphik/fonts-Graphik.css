@@ -1,161 +1,125 @@
 @font-face {
     font-family: Graphik;
-    src: url('https://flows-static.onrender.com/fonts/graphik/files/GraphikBlack.otf');
-    format: ('otf');
-    font-display: swap;
+    src: url('https://flows-static.onrender.com/fonts/graphik/files/GraphikBlack.otf') format ('otf');
     font-weight: 800;
     font-style: normal;
 }
 
 @font-face {
     font-family: Graphik;
-    src: url('https://flows-static.onrender.com/fonts/graphik/files/GraphikBlackItalic.otf');
-    format: ('otf');
-    font-display: swap;
+    src: url('https://flows-static.onrender.com/fonts/graphik/files/GraphikBlackItalic.otf') format ('otf');
     font-weight: 800;
     font-style: italic;
 }
 
 @font-face {
     font-family: Graphik;
-    src: url('https://flows-static.onrender.com/fonts/graphik/files/GraphikBold.otf');
-    format: ('otf');
-    font-display: swap;
+    src: url('https://flows-static.onrender.com/fonts/graphik/files/GraphikBold.otf') format ('otf');
     font-weight: 700;
     font-style: normal;
 }
 
 @font-face {
     font-family: Graphik;
-    src: url('https://flows-static.onrender.com/fonts/graphik/files/GraphikBoldItalic.otf');
-    format: ('otf');
-    font-display: swap;
+    src: url('https://flows-static.onrender.com/fonts/graphik/files/GraphikBoldItalic.otf') format ('otf');
     font-weight: 700;
     font-style: italic;
 }
 
 @font-face {
     font-family: Graphik;
-    src: url('https://flows-static.onrender.com/fonts/graphik/files/GraphikExtralight.otf');
-    format: ('otf');
-    font-display: swap;
+    src: url('https://flows-static.onrender.com/fonts/graphik/files/GraphikExtralight.otf') format ('otf');
     font-weight: 200;
     font-style: normal;
 }
 
 @font-face {
     font-family: Graphik;
-    src: url('https://flows-static.onrender.com/fonts/graphik/files/GraphikExtralightItalic.otf');
-    format: ('otf');
-    font-display: swap;
+    src: url('https://flows-static.onrender.com/fonts/graphik/files/GraphikExtralightItalic.otf') format ('otf');
     font-weight: 200;
     font-style: italic;
 }
 
 @font-face {
     font-family: Graphik;
-    src: url('https://flows-static.onrender.com/fonts/graphik/files/GraphikLight.otf');
-    format: ('otf');
-    font-display: swap;
+    src: url('https://flows-static.onrender.com/fonts/graphik/files/GraphikLight.otf') format ('otf');
     font-weight: 300;
     font-style: normal;
 }
 
 @font-face {
     font-family: Graphik;
-    src: url('https://flows-static.onrender.com/fonts/graphik/files/GraphikLightItalic.otf');
-    format: ('otf');
-    font-display: swap;
+    src: url('https://flows-static.onrender.com/fonts/graphik/files/GraphikLightItalic.otf') format ('otf');
     font-weight: 300;
     font-style: italic;
 }
 
 @font-face {
     font-family: Graphik;
-    src: url('https://flows-static.onrender.com/fonts/graphik/files/GraphikMedium.otf');
-    format: ('otf');
-    font-display: swap;
+    src: url('https://flows-static.onrender.com/fonts/graphik/files/GraphikMedium.otf') format ('otf');
     font-weight: 500;
     font-style: normal;
 }
 
 @font-face {
     font-family: Graphik;
-    src: url('https://flows-static.onrender.com/fonts/graphik/files/GraphikMediumItalic.otf');
-    format: ('otf');
-    font-display: swap;
+    src: url('https://flows-static.onrender.com/fonts/graphik/files/GraphikMediumItalic.otf') format ('otf');
     font-weight: 500;
     font-style: italic;
 }
 
 @font-face {
     font-family: Graphik;
-    src: url('https://flows-static.onrender.com/fonts/graphik/files/GraphikRegular.otf');
-    format: ('otf');
-    font-display: swap;
+    src: url('https://flows-static.onrender.com/fonts/graphik/files/GraphikRegular.otf') format ('otf');
     font-weight: 400;
     font-style: normal;
 }
 
 @font-face {
     font-family: Graphik;
-    src: url('https://flows-static.onrender.com/fonts/graphik/files/GraphikRegularItalic.otf');
-    format: ('otf');
-    font-display: swap;
+    src: url('https://flows-static.onrender.com/fonts/graphik/files/GraphikRegularItalic.otf') format ('otf');
     font-weight: 400;
     font-style: italic;
 }
 
 @font-face {
     font-family: Graphik;
-    src: url('https://flows-static.onrender.com/fonts/graphik/files/GraphikSemibold.otf');
-    format: ('otf');
-    font-display: swap;
+    src: url('https://flows-static.onrender.com/fonts/graphik/files/GraphikSemibold.otf') format ('otf');
     font-weight: 600;
     font-style: normal;
 }
 
 @font-face {
     font-family: Graphik;
-    src: url('https://flows-static.onrender.com/fonts/graphik/files/GraphikSemiboldItalic.otf');
-    format: ('otf');
-    font-display: swap;
+    src: url('https://flows-static.onrender.com/fonts/graphik/files/GraphikSemiboldItalic.otf') format ('otf');
     font-weight: 600;
     font-style: italic;
 }
 
 @font-face {
     font-family: Graphik;
-    src: url('https://flows-static.onrender.com/fonts/graphik/files/GraphikSuper.otf');
-    format: ('otf');
-    font-display: swap;
+    src: url('https://flows-static.onrender.com/fonts/graphik/files/GraphikSuper.otf') format ('otf');
     font-weight: 900;
     font-style: normal;
 }
 
 @font-face {
     font-family: Graphik;
-    src: url('https://flows-static.onrender.com/fonts/graphik/files/GraphikSuperItalic.otf');
-    format: ('otf');
-    font-display: swap;
+    src: url('https://flows-static.onrender.com/fonts/graphik/files/GraphikSuperItalic.otf') format ('otf');
     font-weight: 900;
     font-style: italic;
 }
 
 @font-face {
     font-family: Graphik;
-    src: url('https://flows-static.onrender.com/fonts/graphik/files/GraphikThin.otf');
-    format: ('otf');
-    font-display: swap;
+    src: url('https://flows-static.onrender.com/fonts/graphik/files/GraphikThin.otf') format ('otf');
     font-weight: 100;
     font-style: normal;
 }
 
 @font-face {
     font-family: Graphik;
-    src: url('https://flows-static.onrender.com/fonts/graphik/files/GraphikThinItalic.otf');
-    format: ('otf');
-    font-display: swap;
+    src: url('https://flows-static.onrender.com/fonts/graphik/files/GraphikThinItalic.otf') format ('otf');
     font-weight: 100;
     font-style: italic;
 }
