@@ -1,70 +1,9 @@
 @font-face {
     font-family: Circular;
-    src: url('https://flows-static.onrender.com/fonts/circular/files/CircularStd-Black.otf') format ('otf');
-    font-weight: 800;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: Circular;
-    src: url('https://flows-static.onrender.com/fonts/circular/files/CircularStd-BlackItalic.otf') format ('otf');
-    font-weight: 800;
-    font-style: italic;
-}
-
-@font-face {
-    font-family: Circular;
-    src: url('https://flows-static.onrender.com/fonts/circular/files/CircularStd-Bold.otf') format ('otf');
-    font-weight: 700;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: Circular;
-    src: url('https://flows-static.onrender.com/fonts/circular/files/CircularStd-BoldItalic.otf') format ('otf');
-    font-weight: 700;
-    font-style: italic;
-}
-
-@font-face {
-    font-family: Circular;
-    src: url('https://flows-static.onrender.com/fonts/circular/files/CircularStd-Book.otf') format ('otf');
-    font-weight: 400;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: Circular;
-    src: url('https://flows-static.onrender.com/fonts/circular/files/CircularStd-BookItalic.otf') format ('otf');
-    font-weight: 400;
-    font-style: italic;
-}
-
-@font-face {
-    font-family: Circular;
-    src: url('https://flows-static.onrender.com/fonts/circular/files/CircularStd-Light.otf') format ('otf');
-    font-weight: 300;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: Circular;
-    src: url('https://flows-static.onrender.com/fonts/circular/files/CircularStd-LightItalic.otf') format ('otf');
-    font-weight: 300;
-    font-style: italic;
-}
-
-@font-face {
-    font-family: Circular;
     src: url('https://flows-static.onrender.com/fonts/circular/files/CircularStd-Medium.otf') format ('otf');
     font-weight: 500;
     font-style: normal;
 }
 
-@font-face {
-    font-family: Circular;
-    src: url('https://flows-static.onrender.com/fonts/circular/files/CircularStd-MediumItalic.otf') format ('otf');
-    font-weight: 500;
-    font-style: italic;
-}
+
 
