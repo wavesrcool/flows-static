@@ -1,6 +1,6 @@
 @font-face {
     font-family: Circular;
-    src: url('/files/CircularStd-Black.otf');
+    src: url('https://flows-static.onrender.com/fonts/circular/files/CircularStd-Black.otf');
     format: ('otf');
     font-display: swap;
     font-weight: 800;
@@ -9,7 +9,7 @@
 
 @font-face {
     font-family: Circular;
-    src: url('/files/CircularStd-BlackItalic.otf');
+    src: url('https://flows-static.onrender.com/fonts/circular/files/CircularStd-BlackItalic.otf');
     format: ('otf');
     font-display: swap;
     font-weight: 800;
@@ -18,7 +18,7 @@
 
 @font-face {
     font-family: Circular;
-    src: url('/files/CircularStd-Bold.otf');
+    src: url('https://flows-static.onrender.com/fonts/circular/files/CircularStd-Bold.otf');
     format: ('otf');
     font-display: swap;
     font-weight: 700;
@@ -27,7 +27,7 @@
 
 @font-face {
     font-family: Circular;
-    src: url('/files/CircularStd-BoldItalic.otf');
+    src: url('https://flows-static.onrender.com/fonts/circular/files/CircularStd-BoldItalic.otf');
     format: ('otf');
     font-display: swap;
     font-weight: 700;
@@ -36,7 +36,7 @@
 
 @font-face {
     font-family: Circular;
-    src: url('/files/CircularStd-Book.otf');
+    src: url('https://flows-static.onrender.com/fonts/circular/files/CircularStd-Book.otf');
     format: ('otf');
     font-display: swap;
     font-weight: 400;
@@ -45,7 +45,7 @@
 
 @font-face {
     font-family: Circular;
-    src: url('/files/CircularStd-BookItalic.otf');
+    src: url('https://flows-static.onrender.com/fonts/circular/files/CircularStd-BookItalic.otf');
     format: ('otf');
     font-display: swap;
     font-weight: 400;
@@ -54,7 +54,7 @@
 
 @font-face {
     font-family: Circular;
-    src: url('/files/CircularStd-Light.otf');
+    src: url('https://flows-static.onrender.com/fonts/circular/files/CircularStd-Light.otf');
     format: ('otf');
     font-display: swap;
     font-weight: 300;
@@ -63,7 +63,7 @@
 
 @font-face {
     font-family: Circular;
-    src: url('/files/CircularStd-LightItalic.otf');
+    src: url('https://flows-static.onrender.com/fonts/circular/files/CircularStd-LightItalic.otf');
     format: ('otf');
     font-display: swap;
     font-weight: 300;
@@ -72,7 +72,7 @@
 
 @font-face {
     font-family: Circular;
-    src: url('/files/CircularStd-Medium.otf');
+    src: url('https://flows-static.onrender.com/fonts/circular/files/CircularStd-Medium.otf');
     format: ('otf');
     font-display: swap;
     font-weight: 500;
@@ -81,7 +81,7 @@
 
 @font-face {
     font-family: Circular;
-    src: url('/files/CircularStd-MediumItalic.otf');
+    src: url('https://flows-static.onrender.com/fonts/circular/files/CircularStd-MediumItalic.otf');
     format: ('otf');
     font-display: swap;
     font-weight: 500;

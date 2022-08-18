@@ -1,6 +1,6 @@
 @font-face {
     font-family: Graphik;
-    src: url('/files/GraphikBlack.otf');
+    src: url('https://flows-static.onrender.com/fonts/graphik/files/GraphikBlack.otf');
     format: ('otf');
     font-display: swap;
     font-weight: 800;
@@ -9,7 +9,7 @@
 
 @font-face {
     font-family: Graphik;
-    src: url('/files/GraphikBlackItalic.otf');
+    src: url('https://flows-static.onrender.com/fonts/graphik/files/GraphikBlackItalic.otf');
     format: ('otf');
     font-display: swap;
     font-weight: 800;
@@ -18,7 +18,7 @@
 
 @font-face {
     font-family: Graphik;
-    src: url('/files/GraphikBold.otf');
+    src: url('https://flows-static.onrender.com/fonts/graphik/files/GraphikBold.otf');
     format: ('otf');
     font-display: swap;
     font-weight: 700;
@@ -27,7 +27,7 @@
 
 @font-face {
     font-family: Graphik;
-    src: url('/files/GraphikBoldItalic.otf');
+    src: url('https://flows-static.onrender.com/fonts/graphik/files/GraphikBoldItalic.otf');
     format: ('otf');
     font-display: swap;
     font-weight: 700;
@@ -36,7 +36,7 @@
 
 @font-face {
     font-family: Graphik;
-    src: url('/files/GraphikExtralight.otf');
+    src: url('https://flows-static.onrender.com/fonts/graphik/files/GraphikExtralight.otf');
     format: ('otf');
     font-display: swap;
     font-weight: 200;
@@ -45,7 +45,7 @@
 
 @font-face {
     font-family: Graphik;
-    src: url('/files/GraphikExtralightItalic.otf');
+    src: url('https://flows-static.onrender.com/fonts/graphik/files/GraphikExtralightItalic.otf');
     format: ('otf');
     font-display: swap;
     font-weight: 200;
@@ -54,7 +54,7 @@
 
 @font-face {
     font-family: Graphik;
-    src: url('/files/GraphikLight.otf');
+    src: url('https://flows-static.onrender.com/fonts/graphik/files/GraphikLight.otf');
     format: ('otf');
     font-display: swap;
     font-weight: 300;
@@ -63,7 +63,7 @@
 
 @font-face {
     font-family: Graphik;
-    src: url('/files/GraphikLightItalic.otf');
+    src: url('https://flows-static.onrender.com/fonts/graphik/files/GraphikLightItalic.otf');
     format: ('otf');
     font-display: swap;
     font-weight: 300;
@@ -72,7 +72,7 @@
 
 @font-face {
     font-family: Graphik;
-    src: url('/files/GraphikMedium.otf');
+    src: url('https://flows-static.onrender.com/fonts/graphik/files/GraphikMedium.otf');
     format: ('otf');
     font-display: swap;
     font-weight: 500;
@@ -81,7 +81,7 @@
 
 @font-face {
     font-family: Graphik;
-    src: url('/files/GraphikMediumItalic.otf');
+    src: url('https://flows-static.onrender.com/fonts/graphik/files/GraphikMediumItalic.otf');
     format: ('otf');
     font-display: swap;
     font-weight: 500;
@@ -90,7 +90,7 @@
 
 @font-face {
     font-family: Graphik;
-    src: url('/files/GraphikRegular.otf');
+    src: url('https://flows-static.onrender.com/fonts/graphik/files/GraphikRegular.otf');
     format: ('otf');
     font-display: swap;
     font-weight: 400;
@@ -99,7 +99,7 @@
 
 @font-face {
     font-family: Graphik;
-    src: url('/files/GraphikRegularItalic.otf');
+    src: url('https://flows-static.onrender.com/fonts/graphik/files/GraphikRegularItalic.otf');
     format: ('otf');
     font-display: swap;
     font-weight: 400;
@@ -108,7 +108,7 @@
 
 @font-face {
     font-family: Graphik;
-    src: url('/files/GraphikSemibold.otf');
+    src: url('https://flows-static.onrender.com/fonts/graphik/files/GraphikSemibold.otf');
     format: ('otf');
     font-display: swap;
     font-weight: 600;
@@ -117,7 +117,7 @@
 
 @font-face {
     font-family: Graphik;
-    src: url('/files/GraphikSemiboldItalic.otf');
+    src: url('https://flows-static.onrender.com/fonts/graphik/files/GraphikSemiboldItalic.otf');
     format: ('otf');
     font-display: swap;
     font-weight: 600;
@@ -126,7 +126,7 @@
 
 @font-face {
     font-family: Graphik;
-    src: url('/files/GraphikSuper.otf');
+    src: url('https://flows-static.onrender.com/fonts/graphik/files/GraphikSuper.otf');
     format: ('otf');
     font-display: swap;
     font-weight: 900;
@@ -135,7 +135,7 @@
 
 @font-face {
     font-family: Graphik;
-    src: url('/files/GraphikSuperItalic.otf');
+    src: url('https://flows-static.onrender.com/fonts/graphik/files/GraphikSuperItalic.otf');
     format: ('otf');
     font-display: swap;
     font-weight: 900;
@@ -144,7 +144,7 @@
 
 @font-face {
     font-family: Graphik;
-    src: url('/files/GraphikThin.otf');
+    src: url('https://flows-static.onrender.com/fonts/graphik/files/GraphikThin.otf');
     format: ('otf');
     font-display: swap;
     font-weight: 100;
@@ -153,7 +153,7 @@
 
 @font-face {
     font-family: Graphik;
-    src: url('/files/GraphikThinItalic.otf');
+    src: url('https://flows-static.onrender.com/fonts/graphik/files/GraphikThinItalic.otf');
     format: ('otf');
     font-display: swap;
     font-weight: 100;
