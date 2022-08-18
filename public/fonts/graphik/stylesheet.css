@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'graphikmedium';
+    src: url('graphikmedium-webfont.woff2') format('woff2'),
+         url('graphikmedium-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'graphikmedium_italic';
+    src: url('graphikmediumitalic-webfont.woff2') format('woff2'),
+         url('graphikmediumitalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
