@@ -1,6 +1,6 @@
 @font-face {
     font-family: Graphik;
-    src: url('/fonts/Graphik/GraphikBlack.otf');
+    src: url('/files/GraphikBlack.otf');
     format: ('otf');
     font-display: swap;
     font-weight: 800;
@@ -9,7 +9,7 @@
 
 @font-face {
     font-family: Graphik;
-    src: url('/fonts/Graphik/GraphikBlackItalic.otf');
+    src: url('/files/GraphikBlackItalic.otf');
     format: ('otf');
     font-display: swap;
     font-weight: 800;
@@ -18,7 +18,7 @@
 
 @font-face {
     font-family: Graphik;
-    src: url('/fonts/Graphik/GraphikBold.otf');
+    src: url('/files/GraphikBold.otf');
     format: ('otf');
     font-display: swap;
     font-weight: 700;
@@ -27,7 +27,7 @@
 
 @font-face {
     font-family: Graphik;
-    src: url('/fonts/Graphik/GraphikBoldItalic.otf');
+    src: url('/files/GraphikBoldItalic.otf');
     format: ('otf');
     font-display: swap;
     font-weight: 700;
@@ -36,7 +36,7 @@
 
 @font-face {
     font-family: Graphik;
-    src: url('/fonts/Graphik/GraphikExtralight.otf');
+    src: url('/files/GraphikExtralight.otf');
     format: ('otf');
     font-display: swap;
     font-weight: 200;
@@ -45,7 +45,7 @@
 
 @font-face {
     font-family: Graphik;
-    src: url('/fonts/Graphik/GraphikExtralightItalic.otf');
+    src: url('/files/GraphikExtralightItalic.otf');
     format: ('otf');
     font-display: swap;
     font-weight: 200;
@@ -54,7 +54,7 @@
 
 @font-face {
     font-family: Graphik;
-    src: url('/fonts/Graphik/GraphikLight.otf');
+    src: url('/files/GraphikLight.otf');
     format: ('otf');
     font-display: swap;
     font-weight: 300;
@@ -63,7 +63,7 @@
 
 @font-face {
     font-family: Graphik;
-    src: url('/fonts/Graphik/GraphikLightItalic.otf');
+    src: url('/files/GraphikLightItalic.otf');
     format: ('otf');
     font-display: swap;
     font-weight: 300;
@@ -72,7 +72,7 @@
 
 @font-face {
     font-family: Graphik;
-    src: url('/fonts/Graphik/GraphikMedium.otf');
+    src: url('/files/GraphikMedium.otf');
     format: ('otf');
     font-display: swap;
     font-weight: 500;
@@ -81,7 +81,7 @@
 
 @font-face {
     font-family: Graphik;
-    src: url('/fonts/Graphik/GraphikMediumItalic.otf');
+    src: url('/files/GraphikMediumItalic.otf');
     format: ('otf');
     font-display: swap;
     font-weight: 500;
@@ -90,7 +90,7 @@
 
 @font-face {
     font-family: Graphik;
-    src: url('/fonts/Graphik/GraphikRegular.otf');
+    src: url('/files/GraphikRegular.otf');
     format: ('otf');
     font-display: swap;
     font-weight: 400;
@@ -99,7 +99,7 @@
 
 @font-face {
     font-family: Graphik;
-    src: url('/fonts/Graphik/GraphikRegularItalic.otf');
+    src: url('/files/GraphikRegularItalic.otf');
     format: ('otf');
     font-display: swap;
     font-weight: 400;
@@ -108,7 +108,7 @@
 
 @font-face {
     font-family: Graphik;
-    src: url('/fonts/Graphik/GraphikSemibold.otf');
+    src: url('/files/GraphikSemibold.otf');
     format: ('otf');
     font-display: swap;
     font-weight: 600;
@@ -117,7 +117,7 @@
 
 @font-face {
     font-family: Graphik;
-    src: url('/fonts/Graphik/GraphikSemiboldItalic.otf');
+    src: url('/files/GraphikSemiboldItalic.otf');
     format: ('otf');
     font-display: swap;
     font-weight: 600;
@@ -126,7 +126,7 @@
 
 @font-face {
     font-family: Graphik;
-    src: url('/fonts/Graphik/GraphikSuper.otf');
+    src: url('/files/GraphikSuper.otf');
     format: ('otf');
     font-display: swap;
     font-weight: 900;
@@ -135,7 +135,7 @@
 
 @font-face {
     font-family: Graphik;
-    src: url('/fonts/Graphik/GraphikSuperItalic.otf');
+    src: url('/files/GraphikSuperItalic.otf');
     format: ('otf');
     font-display: swap;
     font-weight: 900;
@@ -144,7 +144,7 @@
 
 @font-face {
     font-family: Graphik;
-    src: url('/fonts/Graphik/GraphikThin.otf');
+    src: url('/files/GraphikThin.otf');
     format: ('otf');
     font-display: swap;
     font-weight: 100;
@@ -153,7 +153,7 @@
 
 @font-face {
     font-family: Graphik;
-    src: url('/fonts/Graphik/GraphikThinItalic.otf');
+    src: url('/files/GraphikThinItalic.otf');
     format: ('otf');
     font-display: swap;
     font-weight: 100;
